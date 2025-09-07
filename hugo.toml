@@ -1,7 +1,6 @@
 baseURL = "https://zjpsycholin.github.io/thinkwrite2/"
 languageCode = "en-us"
 title = "Critical Thinking & English Writing II"
-theme = "archie"
 copyright = "Zhang Jun"
 
 [params]
@@ -72,9 +71,6 @@ copyright = "Zhang Jun"
   name = "Counter-Arguments"
   url  = "/counterarguments/"
   weight = 12
-
-
-
 
 
 
