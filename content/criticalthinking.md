@@ -21,6 +21,14 @@ By the end of this unit you should be able to:
 
 ---
 
+## 📚 Materials
+
+- **Supplementary Reading**: [what is critical thinking](/thinkwrite2/pdfs/whatiscriticalthinking.pdf)
+- **Exercise**: [Identifyingn assumptions](/thinkwrite2/pdfs/Identifyingassumptions.pdf)
+
+
+---
+
 ## 1) What is Critical Thinking?
 
 Critical thinking is a set of **skills and dispositions** for identifying, analyzing, and evaluating arguments and claims; overcoming biases; giving **convincing reasons**; and making **reasonable decisions** about what to believe and do.
@@ -82,13 +90,15 @@ Keep in mind how our **experiences** can mislead us (lighting, fatigue, expectat
 2) Read the supplementary chapter.
 
 ---
-
+<!--
 ## 🧪 In-Class Micro-Activities (We’ll Do Variations of These)
 
 - **Clarity Sprint:** Rewrite a dense sentence into one clearer sentence; name which standard you improved.  
 - **Assumption Hunt:** Given a short claim (e.g., a social-media post), identify **two assumptions** and label each as warranted/unwarranted with one reason.
 
 ---
+-->
+
 
 ## 🔁 Review & Self-Check (After Class)
 
@@ -111,7 +121,7 @@ Match the situation to the standard:
 - Which barrier is strongest for you right now? What *specific* step will you try next week to counter it? (e.g., seek a counter-example; ask “what assumption am I making?”).
 
 ---
-
+<!--
 ## Output Task — Critical Thinking Mini Analysis
 
 **Goal:** Apply our core moves — **claim → reason → evidence**, intellectual standards (clarity, relevance, logical correctness, etc.), and the **rational acceptance** guide — to make a well-reasoned judgment.
@@ -171,12 +181,8 @@ End with a **reasoned judgment** using the **rational acceptance** guide:
 
 
 ---
-## 📚 Materials
+-->
 
-- **Supplementary Reading**: [what is critical thinking](/CTEW2/pdfs/whatiscriticalthinking.pdf)
-- **Exercise**: [Identifyingn assumptions](/CTEW2/pdfs/Identifyingassumptions.pdf)
-
----
 
 ## ✅ What to Bring Next Time
 
