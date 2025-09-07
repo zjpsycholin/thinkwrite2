@@ -1,4 +1,84 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://zjpsycholin.github.io/thinkwrite2/"
+languageCode = "en-us"
+title = "Critical Thinking & English Writing II"
 theme = "archie"
+copyright = "Zhang Jun"
+
+[params]
+  mode    = "auto"     # light/dark/auto
+  subtitle = "Argumentation • Critical Thinking • Exposition"
+  mathjax = false
+  katex   = false
+  useCDN  = false
+
+
+# Top nav
+[[menu.main]]
+  name = "Home"
+  url  = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Syllabus"
+  url  = "/syllabus/"
+  weight = 2
+
+[[menu.main]]
+  name = "Intro"
+  url  = "/intro/"
+  weight = 3
+
+[[menu.main]]
+  name = "Critical Thinking"
+  url  = "/criticalthinking/"
+  weight = 4
+
+[[menu.main]]
+  name = "Paragraph Writing"
+  url  = "/paragraphwriting/"
+  weight = 5
+
+[[menu.main]]
+  name = "Exposition"
+  url  = "/exposition/"
+  weight = 6
+
+[[menu.main]]
+  name = "Argumentation Intro"
+  url  = "/argumentationintro/"
+  weight = 7
+
+[[menu.main]]
+  name = "Logic"
+  url  = "/logic/"
+  weight = 8
+
+[[menu.main]]
+  name = "Arguments"
+  url  = "/arguments/"
+  weight = 9
+
+[[menu.main]]
+  name = "Types of Arguments"
+  url  = "/typesofarguments/"
+  weight = 10
+
+[[menu.main]]
+  name = "Fallacies"
+  url  = "/fallacies/"
+  weight = 11
+
+[[menu.main]]
+  name = "Counter-Arguments"
+  url  = "/counterarguments/"
+  weight = 12
+
+
+
+
+
+
+
+[module]
+  [[module.imports]]
+    path = "github.com/athul/archie"

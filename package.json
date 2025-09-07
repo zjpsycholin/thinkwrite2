@@ -1,0 +1,23 @@
+{
+  "name": "ctew2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
+
+
+{
+  "scripts": {
+    "build": "hugo --minify",
+    "deploy": "npm run build && gh-pages -d public -b gh-pages"
+  }
+}

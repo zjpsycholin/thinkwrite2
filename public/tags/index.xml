@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Critical Thinking &amp; English Writing II</title>
+    <link>http://localhost:1313/CTEW2/tags/</link>
+    <description>Recent content in Tags on Critical Thinking &amp; English Writing II</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Zhang Jun</copyright>
+    <lastBuildDate>Fri, 05 Sep 2025 13:07:13 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/CTEW2/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Literacy</title>
+      <link>http://localhost:1313/CTEW2/tags/ai-literacy/</link>
+      <pubDate>Fri, 05 Sep 2025 13:07:13 +0800</pubDate>
+      <guid>http://localhost:1313/CTEW2/tags/ai-literacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Argumentation</title>
+      <link>http://localhost:1313/CTEW2/tags/argumentation/</link>
+      <pubDate>Fri, 05 Sep 2025 13:07:13 +0800</pubDate>
+      <guid>http://localhost:1313/CTEW2/tags/argumentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Critical Thinking</title>
+      <link>http://localhost:1313/CTEW2/tags/critical-thinking/</link>
+      <pubDate>Fri, 05 Sep 2025 13:07:13 +0800</pubDate>
+      <guid>http://localhost:1313/CTEW2/tags/critical-thinking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Syllabus</title>
+      <link>http://localhost:1313/CTEW2/tags/syllabus/</link>
+      <pubDate>Fri, 05 Sep 2025 13:07:13 +0800</pubDate>
+      <guid>http://localhost:1313/CTEW2/tags/syllabus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Writing</title>
+      <link>http://localhost:1313/CTEW2/tags/writing/</link>
+      <pubDate>Fri, 05 Sep 2025 13:07:13 +0800</pubDate>
+      <guid>http://localhost:1313/CTEW2/tags/writing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Activities</title>
+      <link>http://localhost:1313/CTEW2/tags/activities/</link>
+      <pubDate>Thu, 04 Sep 2025 13:07:13 +0800</pubDate>
+      <guid>http://localhost:1313/CTEW2/tags/activities/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Course Overview</title>
+      <link>http://localhost:1313/CTEW2/tags/course-overview/</link>
+      <pubDate>Thu, 04 Sep 2025 13:07:13 +0800</pubDate>
+      <guid>http://localhost:1313/CTEW2/tags/course-overview/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intro</title>
+      <link>http://localhost:1313/CTEW2/tags/intro/</link>
+      <pubDate>Thu, 04 Sep 2025 13:07:13 +0800</pubDate>
+      <guid>http://localhost:1313/CTEW2/tags/intro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lecture Notes</title>
+      <link>http://localhost:1313/CTEW2/tags/lecture-notes/</link>
+      <pubDate>Thu, 04 Sep 2025 13:07:13 +0800</pubDate>
+      <guid>http://localhost:1313/CTEW2/tags/lecture-notes/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
