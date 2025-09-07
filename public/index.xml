@@ -1,24 +1,90 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Critical Thinking &amp; English Writing II</title><link>https://zjpsycholin.github.io/thinkwrite2/</link><description>Recent content on Critical Thinking &amp; English Writing II</description><generator>Hugo</generator><language>en-us</language><copyright>Zhang Jun</copyright><lastBuildDate>Fri, 05 Sep 2025 13:55:30 +0800</lastBuildDate><atom:link href="https://zjpsycholin.github.io/thinkwrite2/index.xml" rel="self" type="application/rss+xml"/><item><title>Course Introduction</title><link>https://zjpsycholin.github.io/thinkwrite2/intro/</link><pubDate>Thu, 04 Sep 2025 13:07:13 +0800</pubDate><guid>https://zjpsycholin.github.io/thinkwrite2/intro/</guid><description>Module 1 lecture notes with two focused activities and a revised diagnostic writing prompt.</description></item><item><title>Paragraph Writing</title><link>https://zjpsycholin.github.io/thinkwrite2/paragraphwriting/</link><pubDate>Fri, 05 Sep 2025 13:55:30 +0800</pubDate><guid>https://zjpsycholin.github.io/thinkwrite2/paragraphwriting/</guid><description>&lt;h1 id="-paragraph-writing-weeks-3-4">✍️ Paragraph Writing (Weeks 3-4)&lt;/h1>
-&lt;p>This week we &lt;strong>transition into writing&lt;/strong>: clear, well-structured &lt;strong>paragraphs&lt;/strong> are the building blocks of effective essays. We draw on three course readings:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Resource 1 — Paragraph Structure:&lt;/strong> parts of a paragraph; topic sentence &amp;amp; controlling idea; model “gold” paragraph; concluding sentence use. &lt;a href="https://zjpsycholin.github.io/thinkwrite2/CTEW2/pdfs/Ch1ParagraphStructure.pdf">Link to Resource 1&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Resource 2 — Unity &amp;amp; Coherence:&lt;/strong> unity; four coherence tools; transitions; logical order; sample revisions. &lt;a href="https://zjpsycholin.github.io/thinkwrite2/CTEW2/pdfs/Ch2UnityandCoherence.pdf">Link to Resource 2&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Resource 3 — Supporting Details:&lt;/strong> examples, statistics, quotations; integrating outside sources; reporting verbs; connecting evidence to claims.&lt;a href="https://zjpsycholin.github.io/thinkwrite2/CTEW2/pdfs/Ch3SupportingDetails.pdf">Link to Resource 3&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="-learning-outcomes">🎯 Learning Outcomes&lt;/h2>
-&lt;p>By the end of Week 3, you can:&lt;/p></description></item><item><title>Critical Thinking</title><link>https://zjpsycholin.github.io/thinkwrite2/criticalthinking/</link><pubDate>Fri, 05 Sep 2025 13:55:04 +0800</pubDate><guid>https://zjpsycholin.github.io/thinkwrite2/criticalthinking/</guid><description>&lt;h2 id="critical-thinking-weeks-12">Critical Thinking (Weeks 1–2)&lt;/h2>
-&lt;p>Use these notes to &lt;strong>preview&lt;/strong> before class and &lt;strong>review&lt;/strong> after class. You’ll see key ideas, quick checkpoints, and short practice tasks.&lt;/p>
-&lt;hr>
-&lt;h2 id="-learning-outcomes">🎯 Learning Outcomes&lt;/h2>
-&lt;p>By the end of this unit you should be able to:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Define&lt;/strong> critical thinking and name the core &lt;strong>intellectual standards&lt;/strong>: clarity, precision, accuracy, relevance, consistency, logical correctness, completeness, fairness.&lt;/li>
-&lt;li>&lt;strong>Explain benefits&lt;/strong> of critical thinking for decision-making and study.&lt;/li>
-&lt;li>&lt;strong>Spot barriers&lt;/strong>: egocentrism/sociocentrism, unwarranted assumptions &amp;amp; stereotypes, relativistic thinking, wishful thinking.&lt;/li>
-&lt;li>&lt;strong>Differentiate&lt;/strong> warranted vs. unwarranted assumptions and recognize stereotypes as a kind of hasty generalization.&lt;/li>
-&lt;li>&lt;strong>Apply a rational-acceptance guide&lt;/strong> to decide when it is reasonable to accept a premise or claim.&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="1-what-is-critical-thinking">1) What is Critical Thinking?&lt;/h2>
-&lt;p>Critical thinking is a set of &lt;strong>skills and dispositions&lt;/strong> for identifying, analyzing, and evaluating arguments and claims; overcoming biases; giving &lt;strong>convincing reasons&lt;/strong>; and making &lt;strong>reasonable decisions&lt;/strong> about what to believe and do.&lt;/p></description></item><item><title>批判性思维与英语写作（二）｜Critical Thinking and English Writing II — Syllabus</title><link>https://zjpsycholin.github.io/thinkwrite2/syllabus/</link><pubDate>Fri, 05 Sep 2025 13:07:13 +0800</pubDate><guid>https://zjpsycholin.github.io/thinkwrite2/syllabus/</guid><description>18-week syllabus for third-year English majors focusing on argumentation, critical thinking, exposition, and responsible AI use.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Critical Thinking &amp; English Writing II</title>
+    <link>http://localhost:1313/thinkwrite2/</link>
+    <description>Recent content on Critical Thinking &amp; English Writing II</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Zhang Jun</copyright>
+    <lastBuildDate>Fri, 05 Sep 2025 13:58:08 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/thinkwrite2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Counterarguments</title>
+      <link>http://localhost:1313/thinkwrite2/counterarguments/</link>
+      <pubDate>Fri, 05 Sep 2025 13:58:08 +0800</pubDate>
+      <guid>http://localhost:1313/thinkwrite2/counterarguments/</guid>
+      <description>&lt;p&gt;To be published &amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fallacies</title>
+      <link>http://localhost:1313/thinkwrite2/fallacies/</link>
+      <pubDate>Fri, 05 Sep 2025 13:57:44 +0800</pubDate>
+      <guid>http://localhost:1313/thinkwrite2/fallacies/</guid>
+      <description>&lt;p&gt;To be published &amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Typesofarguments</title>
+      <link>http://localhost:1313/thinkwrite2/typesofarguments/</link>
+      <pubDate>Fri, 05 Sep 2025 13:57:28 +0800</pubDate>
+      <guid>http://localhost:1313/thinkwrite2/typesofarguments/</guid>
+      <description>&lt;p&gt;To be published &amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Arguments</title>
+      <link>http://localhost:1313/thinkwrite2/arguments/</link>
+      <pubDate>Fri, 05 Sep 2025 13:57:03 +0800</pubDate>
+      <guid>http://localhost:1313/thinkwrite2/arguments/</guid>
+      <description>&lt;p&gt;To be published &amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logic</title>
+      <link>http://localhost:1313/thinkwrite2/logic/</link>
+      <pubDate>Fri, 05 Sep 2025 13:56:55 +0800</pubDate>
+      <guid>http://localhost:1313/thinkwrite2/logic/</guid>
+      <description>&lt;p&gt;To be published &amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Argumentation intro</title>
+      <link>http://localhost:1313/thinkwrite2/argumentationintro/</link>
+      <pubDate>Fri, 05 Sep 2025 13:56:39 +0800</pubDate>
+      <guid>http://localhost:1313/thinkwrite2/argumentationintro/</guid>
+      <description>&lt;p&gt;To be published &amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exposition</title>
+      <link>http://localhost:1313/thinkwrite2/exposition/</link>
+      <pubDate>Fri, 05 Sep 2025 13:55:45 +0800</pubDate>
+      <guid>http://localhost:1313/thinkwrite2/exposition/</guid>
+      <description>&lt;p&gt;To be published &amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Paragraph Writing</title>
+      <link>http://localhost:1313/thinkwrite2/paragraphwriting/</link>
+      <pubDate>Fri, 05 Sep 2025 13:55:30 +0800</pubDate>
+      <guid>http://localhost:1313/thinkwrite2/paragraphwriting/</guid>
+      <description>&lt;h1 id=&#34;-paragraph-writing-weeks-3-4&#34;&gt;✍️ Paragraph Writing (Weeks 3-4)&lt;/h1&gt;&#xA;&lt;p&gt;This week we &lt;strong&gt;transition into writing&lt;/strong&gt;: clear, well-structured &lt;strong&gt;paragraphs&lt;/strong&gt; are the building blocks of effective essays. We draw on three course readings:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Resource 1 — Paragraph Structure:&lt;/strong&gt; parts of a paragraph; topic sentence &amp;amp; controlling idea; model “gold” paragraph; concluding sentence use. &lt;a href=&#34;http://localhost:1313/thinkwrite2/CTEW2/pdfs/Ch1ParagraphStructure.pdf&#34;&gt;Link to Resource 1&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Resource 2 — Unity &amp;amp; Coherence:&lt;/strong&gt; unity; four coherence tools; transitions; logical order; sample revisions.  &lt;a href=&#34;http://localhost:1313/thinkwrite2/CTEW2/pdfs/Ch2UnityandCoherence.pdf&#34;&gt;Link to Resource 2&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Resource 3 — Supporting Details:&lt;/strong&gt; examples, statistics, quotations; integrating outside sources; reporting verbs; connecting evidence to claims.&lt;a href=&#34;http://localhost:1313/thinkwrite2/CTEW2/pdfs/Ch3SupportingDetails.pdf&#34;&gt;Link to Resource 3&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-learning-outcomes&#34;&gt;🎯 Learning Outcomes&lt;/h2&gt;&#xA;&lt;p&gt;By the end of Week 3, you can:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Critical Thinking</title>
+      <link>http://localhost:1313/thinkwrite2/criticalthinking/</link>
+      <pubDate>Fri, 05 Sep 2025 13:55:04 +0800</pubDate>
+      <guid>http://localhost:1313/thinkwrite2/criticalthinking/</guid>
+      <description>&lt;h2 id=&#34;critical-thinking-weeks-12&#34;&gt;Critical Thinking (Weeks 1–2)&lt;/h2&gt;&#xA;&lt;p&gt;Use these notes to &lt;strong&gt;preview&lt;/strong&gt; before class and &lt;strong&gt;review&lt;/strong&gt; after class. You’ll see key ideas, quick checkpoints, and short practice tasks.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-learning-outcomes&#34;&gt;🎯 Learning Outcomes&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this unit you should be able to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Define&lt;/strong&gt; critical thinking and name the core &lt;strong&gt;intellectual standards&lt;/strong&gt;: clarity, precision, accuracy, relevance, consistency, logical correctness, completeness, fairness.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Explain benefits&lt;/strong&gt; of critical thinking for decision-making and study.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Spot barriers&lt;/strong&gt;: egocentrism/sociocentrism, unwarranted assumptions &amp;amp; stereotypes, relativistic thinking, wishful thinking.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Differentiate&lt;/strong&gt; warranted vs. unwarranted assumptions and recognize stereotypes as a kind of hasty generalization.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Apply a rational-acceptance guide&lt;/strong&gt; to decide when it is reasonable to accept a premise or claim.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-what-is-critical-thinking&#34;&gt;1) What is Critical Thinking?&lt;/h2&gt;&#xA;&lt;p&gt;Critical thinking is a set of &lt;strong&gt;skills and dispositions&lt;/strong&gt; for identifying, analyzing, and evaluating arguments and claims; overcoming biases; giving &lt;strong&gt;convincing reasons&lt;/strong&gt;; and making &lt;strong&gt;reasonable decisions&lt;/strong&gt; about what to believe and do.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>批判性思维与英语写作（二）｜Critical Thinking and English Writing II — Syllabus</title>
+      <link>http://localhost:1313/thinkwrite2/syllabus/</link>
+      <pubDate>Fri, 05 Sep 2025 13:07:13 +0800</pubDate>
+      <guid>http://localhost:1313/thinkwrite2/syllabus/</guid>
+      <description>&lt;h1 id=&#34;批判性思维与英语写作二&#34;&gt;批判性思维与英语写作（二）&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Critical Thinking and English Writing II — Syllabus&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Semester Length:&lt;/strong&gt; 18 weeks · 2 × 45 minutes/week&lt;br&gt;&#xA;&lt;strong&gt;Credits:&lt;/strong&gt; 2&lt;br&gt;&#xA;&lt;strong&gt;Target Students:&lt;/strong&gt; Third-year English majors (China)&lt;br&gt;&#xA;&lt;strong&gt;Language of Instruction:&lt;/strong&gt; English (with Chinese scaffolding where useful)&lt;br&gt;&#xA;&lt;strong&gt;Course Type:&lt;/strong&gt; Required, foundational&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-course-description&#34;&gt;📘 Course Description&lt;/h2&gt;&#xA;&lt;p&gt;This course refines academic writing with a strong focus on &lt;strong&gt;argumentation&lt;/strong&gt;. Students learn to take clear positions, build logical reasoning, integrate credible evidence, address counter-arguments, and avoid fallacies. We also strengthen &lt;strong&gt;paragraph writing&lt;/strong&gt; and &lt;strong&gt;exposition&lt;/strong&gt; as support skills, and engage critically with &lt;strong&gt;writing in the age of AI&lt;/strong&gt;—especially for non-native speakers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Course Introduction</title>
+      <link>http://localhost:1313/thinkwrite2/intro/</link>
+      <pubDate>Thu, 04 Sep 2025 13:07:13 +0800</pubDate>
+      <guid>http://localhost:1313/thinkwrite2/intro/</guid>
+      <description>&lt;p&gt;Welcome to &lt;strong&gt;Critical Thinking &amp;amp; English Writing II&lt;/strong&gt;!&lt;br&gt;&#xA;These notes guide our first two sessions: getting acquainted, previewing the course, and practicing &lt;strong&gt;writing + critical thinking&lt;/strong&gt; from day one.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-learning-goals&#34;&gt;🎯 Learning Goals&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Build a supportive class community.&lt;/li&gt;&#xA;&lt;li&gt;Understand course outcomes, assessments, and expectations.&lt;/li&gt;&#xA;&lt;li&gt;Practice framing claims, giving reasons, and reflecting on how AI intersects with writing.&lt;/li&gt;&#xA;&lt;li&gt;Produce a short &lt;strong&gt;diagnostic writing&lt;/strong&gt; sample.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-lesson-overview&#34;&gt;🧭 Lesson Overview&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Session A&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Getting to know each other&lt;/li&gt;&#xA;&lt;li&gt;Activity A — &lt;em&gt;Writer’s Identity Micro-Argument&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Course overview (highlights from the syllabus)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;strong&gt;Session B&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

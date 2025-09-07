@@ -10,6 +10,8 @@ copyright = "Zhang Jun"
   katex   = false
   useCDN  = false
 
+  customCSS = ["css/custom.css"]
+
 
 # Top nav
 [[menu.main]]
@@ -85,3 +87,5 @@ copyright = "Zhang Jun"
       unsafe = true
 # You can also silence the log if you like:
 ignoreLogs = ['warning-goldmark-raw-html']
+
+

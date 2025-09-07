@@ -1,31 +1,26 @@
 ---
 title: "Course Introduction"
-weight: 3
-summary: "Module 1 lecture notes with two focused activities and a revised diagnostic writing prompt."
-tags: ["intro", "course overview", "syllabus", "activities", "lecture notes"]
 draft: false
 date: "2025-09-04T13:07:13+08:00"
 ---
 
 
 Welcome to **Critical Thinking & English Writing II**!  
-These notes guide our first two sessions: getting acquainted, previewing the course, and practicing **writing + critical thinking** from day one.
+The introduction includes: getting acquainted, previewing the course, and practicing **writing + critical thinking** from day one.
 
 ---
 
 ## 🎯 Learning Goals
 - Build a supportive class community.  
 - Understand course outcomes, assessments, and expectations.  
-- Practice framing claims, giving reasons, and reflecting on how AI intersects with writing.  
 - Produce a short **diagnostic writing** sample.
 
 ---
 
 ## 🧭 Lesson Overview
 **Session A**  
-1) Getting to know each other  
-2) Activity A — *Writer’s Identity Micro-Argument*  
-3) Course overview (highlights from the syllabus)
+1) Getting to know each other and activities
+2) Course overview (highlights from the syllabus)
 
 **Session B**  
 1) Activity B — *Text Snapshot Analysis*  
@@ -34,6 +29,53 @@ These notes guide our first two sessions: getting acquainted, previewing the cou
 
 ---
 
+## 👋 Getting to Know You — Name Tent
+
+**Goal:** Help the instructor quickly learn names, pronunciations, and memorable facts—without repeating peer intros students already know.
+
+**Name Tent**  
+   Write:
+   - **中文名** (large) 
+   - **Preferred English name** (small)  
+   - **One “memory hook”** word (e.g., badminton, Shandong, cats)
+
+### What we keep
+- **Name tents** (reuse for the next classes)    
+
+---
+
+## 👋 Activity: Micro-Profile Card
+
+**Goal:** Help the **instructor** quickly learn your name, pronunciation, interests, comfort level, and learning preferences—without long introductions.
+
+### What you’ll do
+**Complete the Micro-Profile Card (5–6′)**  
+   Fill in the short form below. Be honest and brief.   
+   Give your card to the instructor. Keep your **name tent** on your desk for the first 2–3 weeks.
+
+### Micro-Profile Card 
+
+MICRO-PROFILE
+
+• English name | 中文名 + pinyin (tones):    
+• Hometown / Region:    
+• One fun fact (non-academic):    
+• My comfort speaking English in class (circle):  1  2  3  4  5 (1 = very anxious • 5 = very comfortable)       
+• I prefer being called on by:      
+• One goal this term (short, specific):       
+• AI tools I’ve tried (optional): __________________________       
+
+> Tip: Short answers are fine. 
+
+
+### What happens next
+- The instructor keeps the **cards** (private).  
+- We’ll use your preferences to shape participation and feedback.  
+- Name tents remain on desks for the next few classes.
+
+
+
+<!--
 ## 👋 1) Getting to Know Each Other (warm-up)
 - Brief self-intro (name, hometown/major interest).  
 - One experience that shaped how you think or write in English.
@@ -64,13 +106,10 @@ An example:
 
 **Why this matters**  
 You’re already practicing the core moves of argumentation: **claim → reason → evidence / counter-response**.
-
+-->
 ---
 
 ## 🗂️ 3) Course Overview (syllabus highlights)
-- What we’ll learn: **argument structure, exposition, logic, fallacies, counter-arguments, AI-aware writing**.  
-- How you’ll learn: short practice → peer review → revision → portfolio.  
-- How you’ll be graded: participation, assignments, two major essays, final exam + portfolio.
 
 *(Full syllabus on the website for details.)*
 
@@ -98,8 +137,8 @@ Write in **your own voice**. If you mention facts or sources, summarize them in 
 ---
 
 ## ✅ Next Steps
-- Submit the diagnostic piece by the end of **Week 1** (check submission instructions on the site).  
+- Submit the diagnostic piece by the end of **Week 1**.  
 - Skim the **Syllabus** page and note questions for Week 2.  
-- Bring a short text you admire (op-ed/blog/review) for discussion in the **Critical Thinking** module.
+- Bring a short text you admire (blog/review) for discussion in the **Critical Thinking** module.
 
 ---

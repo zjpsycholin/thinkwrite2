@@ -1,0 +1,15 @@
+/* Increase overall content font size */
+body {
+  font-size: 1.05rem;   /* default is usually ~1rem (16px) */
+  line-height: 1;     /* improve readability */
+}
+
+/* Make headings stand out a bit more */
+h1 { font-size: 1.3rem; }
+h2 { font-size: 1.2rem; }
+h3 { font-size: 1.1rem; }
+
+/* Paragraph spacing for clarity */
+p {
+  margin-bottom: 1 em;
+}
