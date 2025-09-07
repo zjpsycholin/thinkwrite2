@@ -78,3 +78,10 @@ copyright = "Zhang Jun"
 [module]
   [[module.imports]]
     path = "github.com/athul/archie"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+# You can also silence the log if you like:
+ignoreLogs = ['warning-goldmark-raw-html']
