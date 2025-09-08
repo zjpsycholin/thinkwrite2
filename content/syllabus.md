@@ -9,7 +9,7 @@ draft: false
 
 > **Semester Length:** 18 weeks · 2 × 45 minutes/week  
 > **Credits:** 2  
-> **Target Students:** Third-year English majors (China)  
+> **Target Students:** Third-year English majors 
 > **Language of Instruction:** English (with Chinese scaffolding where useful)  
 > **Course Type:** Required, foundational
 
@@ -197,7 +197,7 @@ By the end of the course, students can:
 
 ## 📚 Materials
 
-- Course Website (http://localhost:1313/thinkwrite2/)
+- Course Website (https://zjpsycholin.github.io/thinkwrite2/)
 - Lecture slides
 - Handouts
 - Readings

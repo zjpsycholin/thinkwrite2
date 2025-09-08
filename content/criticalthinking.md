@@ -23,7 +23,7 @@ By the end of this unit you should be able to:
 
 ## 📚 Materials
 
-- **Supplementary Reading**: [what is critical thinking](/thinkwrite2/pdfs/whatiscriticalthinking.pdf)
+- **Supplementary Reading**: [what is critical thinking](/thinkwrite2/pdfs/Whatiscriticalthinking.pdf)
 - **Exercise**: [Identifyingn assumptions](/thinkwrite2/pdfs/Identifyingassumptions.pdf)
 
 
