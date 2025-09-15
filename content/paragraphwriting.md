@@ -9,11 +9,13 @@ title = 'Paragraph Writing'
 
 This week we **transition into writing**: clear, well-structured **paragraphs** are the building blocks of effective essays. We draw on three course readings:
 
-- **Resource 1 — Paragraph Structure:** parts of a paragraph; topic sentence & controlling idea; model “gold” paragraph; concluding sentence use. [Link to Resource 1](/CTEW2/pdfs/Ch1ParagraphStructure.pdf) 
-- **Resource 2 — Unity & Coherence:** unity; four coherence tools; transitions; logical order; sample revisions.  [Link to Resource 2](/CTEW2/pdfs/Ch2UnityandCoherence.pdf) 
-- **Resource 3 — Supporting Details:** examples, statistics, quotations; integrating outside sources; reporting verbs; connecting evidence to claims.[Link to Resource 3](/CTEW2/pdfs/Ch3SupportingDetails.pdf) 
+- **Resource 1 — Paragraph Structure:** parts of a paragraph; topic sentence & controlling idea; model “gold” paragraph; concluding sentence use. [Link to Resource 1](/thinkwrite2/pdfs/Ch1ParagraphStructure.pdf) 
+- **Resource 2 — Unity & Coherence:** unity; four coherence tools; transitions; logical order; sample revisions.  [Link to Resource 2](/thinkwrite2/pdfs/Ch2UnityandCoherence.pdf) 
+- **Resource 3 — Supporting Details:** examples, statistics, quotations; integrating outside sources; reporting verbs; connecting evidence to claims.[Link to Resource 3](/thinkwrite2/pdfs/Ch3SupportingDetails.pdf) 
 
 ---
+
+
 
 ## 🎯 Learning Outcomes
 By the end of Week 3, you can:

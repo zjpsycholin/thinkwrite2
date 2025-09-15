@@ -53,26 +53,26 @@ By the end of the course, students can:
 ## 📅 Weekly Schedule (18 Weeks)
 (Subject to futher amendments)
 
-| Week | Hours | Topics & Activities |
-|---:|---:|---|
-| **1** | 2 | **Course Introduction**: Goals, assessment, expectations. >>     **Critical Thinking I** — What is critical thinking; eight intellectual standards (clarity, precision, accuracy, relevance, consistency, logical correctness, completeness, fairness); basics of Claim → Reason → Evidence. |
-| **2** | 2 | **Critical Thinking II** — Barriers (egocentrism, sociocentrism, relativism, wishful thinking); assumptions & stereotypes (warranted vs. unwarranted); rational-acceptance guide (experience/background beliefs/credible source).  |
-| **3** | 2 | **Paragraph Writing I**: Topic sentences & controlling idea; unity; basic coherence (key nouns, consistent pronouns). Practice drills. |
-| **4** | 2 | **Paragraph Writing II**: Coherence (transitions, logical order); supporting details (examples, statistics, quotations). Mini-workshop. |
-| **5** | 2 | **Exposition I** – Illustration & Source Basics: Using examples effectively; finding & evaluating sources; paraphrasing/quoting/citing. |
-| **6** | 2 | **Exposition II** – Comparison & Contrast: Using similarities/differences to strengthen arguments. |
-| **7** | 2 | **Argumentation Intro**: Structure (thesis, claims, support). Drafting outlines. |
-| **8** | 2 | **Modes of Persuasion (Ethos, Pathos, Logos)**: Analyzing sample essays. |
-| **9** | 2 | **Logic I – Basic Concepts**: Deductive vs. inductive reasoning; validity; soundness. |
-| **10** | 2 | **Logic II – Practice**: Identifying logical moves in texts. |
-| **11** | 2 | **Arguments I – Recognizing & Analyzing Arguments**: Premises, conclusions, assumptions. |
-| **12** | 2 | **Arguments II – Evaluating Arguments**: Strength, sufficiency, relevance of evidence. Peer review activity. |
-| **13** | 2 | **Types of Arguments**: Cause/effect, analogy, definition, authority. Practice writing mini-essays. |
-| **14** | 2 | **Logical Fallacies I**: Common fallacies (ad hominem, straw man, slippery slope, etc.). |
-| **15** | 2 | **Logical Fallacies II**: Identifying fallacies in media and student writing. Revision workshop. |
-| **16** | 2 | **Counter-Arguments I**: Anticipating objections; concession & rebuttal. |
-| **17** | 2 | **Counter-Arguments II + Writing in the Age of AI**: How AI tools affect writing and critical thinking for non-native speakers. Ethics, originality, and skill development. |
-| **18** | 2 | **Final Exam & Portfolio Submission**: Timed essay + submission of revised argumentative essay with reflection. |
+| Week | Sessions | Topics | Key issues |
+|---|---|---|---|
+| **1** | 2 | *Course Introduction* &  *Critical Thinking I*|    Course Goals, assessment, expectations. What is critical thinking; eight intellectual standards (clarity, precision, accuracy, relevance, consistency, logical correctness, completeness, fairness); basics of Claim → Reason → Evidence. |
+| **2** | 2 | *Critical Thinking II*| Barriers (egocentrism, sociocentrism, relativism, wishful thinking); assumptions & stereotypes (warranted vs. unwarranted); rational-acceptance guide (experience/background beliefs/credible source).  |
+| **3** | 2 | *Paragraph Writing I*| Topic sentences & controlling idea; unity; basic coherence (key nouns, consistent pronouns). Practice drills. |
+| **4** | 2 | *Paragraph Writing II*| Coherence (transitions, logical order); supporting details (examples, statistics, quotations). Mini-workshop. |
+| **5** | 2 | *Exposition I*| Illustration & Source Basics: Using examples effectively; finding & evaluating sources; paraphrasing/quoting/citing. |
+| **6** | 2 | *Exposition II*| Comparison & Contrast: Using similarities/differences to strengthen arguments. |
+| **7** | 2 | *Argumentation Intro*| Structure (thesis, claims, support). Drafting outlines. |
+| **8** | 2 | *Modes of Persuasion*| Ethos, Pathos, Logos; Analyzing sample essays. |
+| **9** | 2 | *Logic I*|  Basic Concepts; Deductive vs. inductive reasoning; validity; soundness. |
+| **10** | 2 | *Logic II*| Practice; Identifying logical moves in texts. |
+| **11** | 2 | *Arguments I*| Recognizing & Analyzing Arguments: Premises, conclusions, assumptions. |
+| **12** | 2 | *Arguments II*| Evaluating Arguments: Strength, sufficiency, relevance of evidence. Peer review activity. |
+| **13** | 2 | *Types of Arguments*| Cause/effect, analogy, definition, authority. Practice writing mini-essays. |
+| **14** | 2 | *Logical Fallacies I*| Common fallacies (ad hominem, straw man, slippery slope, etc.). |
+| **15** | 2 | *Logical Fallacies II*| Identifying fallacies in media and student writing. Revision workshop. |
+| **16** | 2 | *Counter-Arguments I*| Anticipating objections; concession & rebuttal. |
+| **17** | 2 | *Counter-Arguments II*| concession & rebuttal |
+| **18** | 2 | *Final Exam & Portfolio Submission*| Timed essay + submission of revised argumentative essay with reflection. |
 
 <!--
 > 💡 **Tip:** Keep a running “claim bank” each week (one thesis + two reasons). It speeds up drafting later.
